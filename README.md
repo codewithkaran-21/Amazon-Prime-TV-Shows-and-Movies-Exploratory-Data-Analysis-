@@ -4,6 +4,8 @@ Exploratory Data Analysis of Amazon Prime Video Content
 📖 Project Overview
 This project performs an in‑depth exploratory data analysis on Amazon Prime Video’s movies and TV shows dataset. The goal is to uncover actionable insights related to content trends, audience preferences, ratings behavior, and talent influence that can support business and strategic decision‑making.
 
+![Amazon Prime Video Content](Screenshot 2026-02-19 011844.png)
+
 # 🎯 Business Objective
 
 Analyze content distribution and growth patterns
